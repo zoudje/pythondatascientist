@@ -1,6 +1,5 @@
 name: python-ds
 channels:
-  - pytorch
   - conda-forge
 dependencies:
   - aiohttp=3.9.3=py312he70551f_1
