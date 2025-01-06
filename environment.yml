@@ -3,7 +3,12 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - pip:
-    - pandas
-    - matplotlib
-    - numpy
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
